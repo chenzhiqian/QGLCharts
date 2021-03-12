@@ -17,7 +17,6 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
     main.cpp \
-    mainwindow.cpp \
     source/qglcombinechart.cpp \
     source/qglhistogramchart.cpp \
     source/qglhistogramset.cpp \
@@ -31,7 +30,6 @@ SOURCES += \
     source/qglscatterset.cpp
 
 HEADERS += \
-    mainwindow.h \
     source/qglcombinechart.h \
     source/qglhistogramchart.h \
     source/qglhistogramset.h \
