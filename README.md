@@ -1,9 +1,8 @@
-# QGLCharts
-基于OpenGL开发的二维图表组件，包含折线图、柱状图、散点图以及组合图。
 
 # 基础说明
-应公司大数据量绘图需要，基于OpenGL定制的二维图表组件，供相互学习。
-当前使用OpenGL CompatibilityProfile，后续有需要修改成CoreProfile。
+基于OpenGL定制的二维图表组件，包含折线图、柱状图、散点图以及组合图。满足基本使用，供相互学习。提供了两种不同的渲染模式实现，可任选其一。
+CompatibilityProfile目录下为直接渲染模式
+CoreProfile目录下为核心渲染模式(兼容老API)
 
 # 工程类图
 ![微信截图_20210312192140](https://user-images.githubusercontent.com/9159331/110934722-5e30e700-8369-11eb-891b-da76e555792b.png)
