@@ -3,7 +3,7 @@
 
 # 基础说明
 应公司大数据量绘图需要，基于OpenGL定制的二维图表组件，供相互学习。
-当前使用opengl老接口进行绘制(glBegin/glVertex3f/glEnd)，后续有需要修改成GSLS。
+当前使用OpenGL CompatibilityProfile，后续有需要修改成CoreProfile。
 
 # 工程类图
 ![微信截图_20210312192140](https://user-images.githubusercontent.com/9159331/110934722-5e30e700-8369-11eb-891b-da76e555792b.png)
